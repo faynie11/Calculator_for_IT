@@ -1,3 +1,0 @@
-C:/Users/wowek/OneDrive/Pulpit/JPO_Zapas/Calc_for_IT_project/build_win/CMakeFiles/Calc_for_ele_project_cmake.dir
-C:/Users/wowek/OneDrive/Pulpit/JPO_Zapas/Calc_for_IT_project/build_win/CMakeFiles/ALL_BUILD.dir
-C:/Users/wowek/OneDrive/Pulpit/JPO_Zapas/Calc_for_IT_project/build_win/CMakeFiles/ZERO_CHECK.dir
