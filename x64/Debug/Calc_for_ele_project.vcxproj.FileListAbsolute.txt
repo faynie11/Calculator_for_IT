@@ -1,0 +1,2 @@
+C:\Users\wowek\OneDrive\Pulpit\STUDIA\SEMESTR 5\JPO\UczesieCplusplus\Calc_for_ele_project\x64\Debug\Calc_for_ele_project.exe
+C:\Users\wowek\OneDrive\Pulpit\Cmake_test\Calc_for_ele_project_cmake\x64\Debug\Calc_for_ele_project.exe

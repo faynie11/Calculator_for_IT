@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/wowek/OneDrive/Pulpit/JPO_Zapas/Calc_for_IT_project/CMakeLists.txt
+  Calc_for_ele_project.cpp
+  Calc_for_ele_projectDlg.cpp
+  pch.cpp
+  Conversions.cpp
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\src\Conversions.cpp(40,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\src\Conversions.cpp(57,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\src\Conversions.cpp(99,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\src\Conversions.cpp(141,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\src\Conversions.cpp(158,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Calc_for_ele_project_cmake.vcxproj -> C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\build_win\Debug\Calc_for_ele_project_cmake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

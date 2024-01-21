@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\build_win\CMakeFiles\42002bdefb54ce7a88867db50dff6bb5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7487831F-2FBD-32FF-AA57-6E81CD6920DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

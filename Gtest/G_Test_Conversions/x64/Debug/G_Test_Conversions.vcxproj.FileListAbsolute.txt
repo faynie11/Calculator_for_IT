@@ -1,0 +1,4 @@
+C:\Users\wowek\OneDrive\Pulpit\STUDIA\SEMESTR 5\JPO\UczesieCplusplus\Calc_for_ele_project\Gtest\G_Test_Conversions\x64\Debug\G_Test_Conversions.vcxproj.CopyComplete
+C:\Users\wowek\OneDrive\Pulpit\Cmake_test\Calc_for_ele_project_cmake\Gtest\G_Test_Conversions\x64\Debug\G_Test_Conversions.vcxproj.CopyComplete
+C:\Users\wowek\OneDrive\Pulpit\Cmake_test\Calc_for_IT_project\Gtest\G_Test_Conversions\x64\Debug\G_Test_Conversions.vcxproj.CopyComplete
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\x64\Debug\G_Test_Conversions.vcxproj.CopyComplete

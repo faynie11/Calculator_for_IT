@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  test.cpp
+  Test_Con.cpp
+  Generating Code...
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\Test_Con.cpp(35,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Test_Con.cpp')
+  
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\Test_Con.cpp(51,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Test_Con.cpp')
+  
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\Test_Con.cpp(87,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Test_Con.cpp')
+  
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\Test_Con.cpp(122,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Test_Con.cpp')
+  
+C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\Gtest\G_Test_Conversions\Test_Con.cpp(139,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/Test_Con.cpp')
+  
+  G_Test_Conversions.vcxproj -> C:\Users\wowek\OneDrive\Pulpit\JPO_Zapas\Calc_for_IT_project\x64\Debug\G_Test_Conversions.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
