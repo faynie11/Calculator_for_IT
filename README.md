@@ -1,2 +1,2 @@
-# Calculator_for_It_project
+# Calculator_for_IT
  Includes CMake, GoogleTest and Cpp project
